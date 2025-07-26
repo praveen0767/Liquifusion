@@ -1,2 +1,2 @@
 # Liquifusion
-An AI Management of ICP 
+An AI Management for Defi Bitcoin trading on Chain
